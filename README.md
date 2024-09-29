@@ -66,9 +66,5 @@ Congratulations! You guessed the correct number in 4 attempts.
 You have completed the game in 30 seconds.
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ## Project URL:
 https://roadmap.sh/projects/number-guessing-game
