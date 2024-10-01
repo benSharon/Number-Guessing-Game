@@ -50,7 +50,7 @@ def play_game():
 
     while guess != "quit":
         if attempts != number_of_chances:
-            guess = input("Enter your guess: ")
+            guess = input("Enter your guess (or 'quit' to quit the game): ")
             attempts += 1
 
             if guess == "quit":
